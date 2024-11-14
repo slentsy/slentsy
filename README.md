@@ -6,7 +6,7 @@ My name is **Sophia Madlentsy Tambunan**.<br>
 - 🌱 I’m currently learning at Bangkit Academy 2024, batch 2 by PT. Dicoding Akademi Indonesia 
 - 😄 I'm not very good at coding, but I keep learning to deepen and learn new knowledge.<br>
 
-if you interested to know more about me, you can contact or follow me on [Linkedin](https://www.linkedin.com/in/sophia-madlentsy-tambunan/) ya🤗
+if you interested to know more about me, you can contact or connect with me on [Linkedin](https://www.linkedin.com/in/sophia-madlentsy-tambunan/) ya🤗
 
 ### Github Statistic 📊
 <p align="left">
