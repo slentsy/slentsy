@@ -10,7 +10,7 @@ if you interested to know more about me, you can contact or connect with me on [
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/penuliscode">
+<a href="https://github.com/slentsy">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=slentsy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=slentsy&theme=algolia"/>
 </a>
